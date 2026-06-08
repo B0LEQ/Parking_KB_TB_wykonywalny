@@ -1,0 +1,1 @@
+"logs" folder is folder in which your program will save entrance and exit operation logs. 
